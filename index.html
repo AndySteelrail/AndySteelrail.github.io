@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tic Tac Toe</title>
+    <script type="module" crossorigin src="/assets/index-511ae932.js"></script>
+    <link rel="stylesheet" href="/assets/index-172bb6c2.css">
+  </head>
+  <body>
+    <h1>Tic Tac Toe</h1>
+    <div class="app">
+      <section>
+        <div class="game-stage">
+          <table>
+            <tbody>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            </tbody>
+          </table>
+          <svg viewBox="0 0 90 90" stroke="#b83900" stroke-linecap="round"  stroke-width="4">
+            <line x1="0" y1="0" x2="0" y2="0"/>
+          </svg>
+        </div>
+      </section>
+      <section class="controls">
+        <button id="pvp" class="active">PvP</button>
+        <button id="pve">PvE</button>
+        <div>
+          <label for="ai-first-move">ИИ ходит первый</label>
+          <input id="ai-first-move" type="checkbox"/>
+        </div>
+        <button id="reset"></button>
+      </section>
+    </div>
+    
+  </body>
+</html>
