@@ -1,0 +1,203 @@
+{
+    "pageProps": {
+        "metaData": {
+            "title": "Учительская: полезные и нескучные статьи для педагога",
+            "keywords": "Учительская. Статьи для педагога.",
+            "description": "Советы от методистов-профессионалов: как готовить учеников к экзаменам, как эффективно использовать образовательный сервис Облако знаний. Обзор нормативных изменений в образовании."
+        },
+        "articles": [
+            {
+                "id": 4887,
+                "title": "ОГЭ-2025 по русскому языку: финальные тренировки перед экзаменационным марафоном",
+                "views": 253,
+                "href": "oge-2025-po-russkomu-yazyku-final-nye-trenirovki-pered-ekzamenacionnym-marafonom",
+                "date": "2025-05-12T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4887/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4885,
+                "title": "Синтаксис русского языка: подборка заданий и кроссворд",
+                "views": 329,
+                "href": "sintaksis-russkogo-yazyka-podborka-zadanij-i-krossvord",
+                "date": "2025-04-21T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4885/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4836,
+                "title": "Журнал «Химия в школе» и цифровые работы «Облако знаний»: новые идеи для уроков",
+                "views": 548,
+                "href": "zhurnal-himiya-v-shkole-i-cifrovye-raboty-oblako-znanij-novye-idei-dlya-urokov",
+                "date": "2025-03-31T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4836/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4834,
+                "title": "Развиваем критическое мышление на уроках химии",
+                "views": 453,
+                "href": "razvivaem-kriticheskoe-myshlenie-na-urokah-himii",
+                "date": "2025-03-21T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4834/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4833,
+                "title": "Обществознание, 11 класс: кейс-стади в обучении праву",
+                "views": 342,
+                "href": "obshestvoznanie-11-klass-kejs-stadi-v-obuchenii-pravu",
+                "date": "2025-03-17T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4833/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4832,
+                "title": "Использование заданий с развёрнутым ответом в «Облаке знаний»",
+                "views": 619,
+                "href": "ispol-zovanie-zadanij-s-razvernutym-otvetom-v-oblake-znanij",
+                "date": "2025-02-26T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4832/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4798,
+                "title": "Обзор изменений в ОГЭ по биологии 2025 года",
+                "views": 2173,
+                "href": "obzor-izmenenij-v-oge-po-biologii-2025-goda",
+                "date": "2024-12-11T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4798/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4797,
+                "title": "Патриотическое воспитание школьников через изучение истории своей семьи",
+                "views": 865,
+                "href": "patrioticheskoe-vospitanie-shkol-nikov-cherez-izuchenie-istorii-svoej-sem-i",
+                "date": "2024-12-06T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4797/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4793,
+                "title": "Использование материалов «Облака знаний» для домашнего обучения",
+                "views": 960,
+                "href": "ispol-zovanie-materialov-oblaka-znanij-dlya-domashnego-obucheniya",
+                "date": "2024-11-21T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4793/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4772,
+                "title": "Цифровые задания для уроков биологии на ноябрь и декабрь",
+                "views": 1389,
+                "href": "cifrovye-zadaniya-dlya-urokov-biologii-na-noyabr-i-dekabr",
+                "date": "2024-11-08T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4772/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4771,
+                "title": "Пилотный проект «Облако знаний – ЦОК»",
+                "views": 9432,
+                "href": "sok2025",
+                "date": "2024-11-02T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4771/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4766,
+                "title": "Как применять контрольные работы «Облака знаний» в учебном процессе",
+                "views": 1052,
+                "href": "kak-primenyat-kontrol-nye-raboty-oblaka-znanij-v-uchebnom-processe",
+                "date": "2024-10-24T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4766/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4755,
+                "title": "Работа с картой в цифровых заданиях по географии",
+                "views": 1035,
+                "href": "rabota-s-kartoj-v-cifrovyh-zadaniyah-po-geografii",
+                "date": "2024-10-18T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4755/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4750,
+                "title": "Цифровые задания для уроков обществознания на осень",
+                "views": 940,
+                "href": "cifrovye-zadaniya-dlya-urokov-obshestvoznaniya-na-osen",
+                "date": "2024-10-09T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4750/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4738,
+                "title": "Полимерия: история открытия и биологический смысл",
+                "views": 2605,
+                "href": "polimeriya-istoriya-otkrytiya-i-biologicheskij-smysl",
+                "date": "2024-09-18T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4738/full_1",
+                "rubricId": "edu_change"
+            },
+            {
+                "id": 4737,
+                "title": "Цифровые задания для уроков географии в сентябре",
+                "views": 1121,
+                "href": "cifrovye-zadaniya-dlya-urokov-geografii-v-sentyabre",
+                "date": "2024-09-13T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4737/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4731,
+                "title": "Основы безопасности и защиты Родины: особенности нового предмета",
+                "views": 2638,
+                "href": "osnovy-bezopasnosti-i-zashity-rodiny-osobennosti-novogo-predmeta",
+                "date": "2024-08-23T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4731/full_1",
+                "rubricId": "edu_change"
+            },
+            {
+                "id": 4732,
+                "title": "В помощь учителю: обновляем географическую информацию ",
+                "views": 738,
+                "href": "v-pomosh-uchitelyu-obnovlyaem-geograficheskuyu-informaciyu",
+                "date": "2024-08-21T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4732/full_1",
+                "rubricId": "useful_adv"
+            }
+        ],
+        "totalPages": 4,
+        "activePage": 1,
+        "rubrics": [
+            {
+                "id": "innovation",
+                "title": "Инновации"
+            },
+            {
+                "id": "psychology",
+                "title": "Психология"
+            },
+            {
+                "id": "edu_change",
+                "title": "Изменения в образовании"
+            },
+            {
+                "id": "motivation",
+                "title": "Мотивация"
+            },
+            {
+                "id": "analytics",
+                "title": "Аналитика"
+            },
+            {
+                "id": "useful_adv",
+                "title": "Полезные советы"
+            }
+        ],
+        "activeRubrics": []
+    },
+    "__N_SSP": true
+}
