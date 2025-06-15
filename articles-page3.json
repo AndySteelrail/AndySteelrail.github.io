@@ -1,0 +1,203 @@
+{
+    "pageProps": {
+        "metaData": {
+            "title": "Учительская: полезные и нескучные статьи для педагога",
+            "keywords": "Учительская. Статьи для педагога.",
+            "description": "Советы от методистов-профессионалов: как готовить учеников к экзаменам, как эффективно использовать образовательный сервис Облако знаний. Обзор нормативных изменений в образовании."
+        },
+        "articles": [
+            {
+                "id": 4548,
+                "title": "Опорные конспекты «Облака знаний» в углублённом изучении географии",
+                "views": 1122,
+                "href": "opornye-konspekty-oblaka-znanij-v-uglublennom-izuchenii-geografii",
+                "date": "2023-12-19T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4548/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4538,
+                "title": "Зачем нужна читательская грамотность в физике",
+                "views": 979,
+                "href": "zachem-nuzhna-chitatel-skaya-gramotnost-v-fizike",
+                "date": "2023-12-14T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4538/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4545,
+                "title": "Обучаем нейросеть: зачем в технологический проект привлекается методист по школьному предмету?",
+                "views": 925,
+                "href": "obuchaem-nejroset-zachem-v-tehnologicheskij-proekt-privlekaetsya-metodist-po-shkol-nomu-predmetu",
+                "date": "2023-11-15T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4545/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4488,
+                "title": "Подборка онлайн-экскурсий по Государственному геологическому музею им. В. И. Вернадского ",
+                "views": 908,
+                "href": "podborka-onlajn-ekskursij-po-gosudarstvennomu-geologicheskomu-muzeyu-im-v-i-vernadskogo",
+                "date": "2023-11-14T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4488/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4474,
+                "title": "Формирование математической и финансовой грамотности на уроках географии",
+                "views": 1206,
+                "href": "formirovanie-matematicheskoj-i-finansovoj-gramotnosti-na-urokah-geografii",
+                "date": "2023-10-23T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4474/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4464,
+                "title": "Воспитательный потенциал уроков биологии",
+                "views": 1628,
+                "href": "vospitatel-nyj-potencial-urokov-biologii",
+                "date": "2023-10-14T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4464/full_1",
+                "rubricId": "analytics"
+            },
+            {
+                "id": 4462,
+                "title": "Олимпиады школьников по географии в 2023/2024 учебном году",
+                "views": 2527,
+                "href": "olimpiady-shkol-nikov-po-geografii-v-2023-2024-uchebnom-godu",
+                "date": "2023-10-09T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4462/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4451,
+                "title": "Как изменится ЕГЭ по биологии в 2024 году: обзор новой демоверсии",
+                "views": 2904,
+                "href": "kak-izmenitsya-ege-po-biologii-v-2024-godu-obzor-novoj-demoversii",
+                "date": "2023-10-04T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4451/full_1",
+                "rubricId": "edu_change"
+            },
+            {
+                "id": 4450,
+                "title": "О трудностях перевода в доинтернетные времена, или Обзор контента «Облака знаний» для изучения английского языка",
+                "views": 534,
+                "href": "o-trudnostyah-perevoda-v-dointernetnye-vremena-ili-obzor-kontenta-oblaka-znanij-dlya-izucheniya-anglijskogo-yazyka",
+                "date": "2023-09-29T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4450/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4449,
+                "title": "Искусственный интеллект в онлайн-образовании: возможности использования",
+                "views": 1802,
+                "href": "iskusstvennyj-intellekt-v-onlajn-obrazovanii-vozmozhnosti-ispol-zovaniya",
+                "date": "2023-09-28T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4449/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4441,
+                "title": "Как классно провести классный час: идеи и готовые разработки",
+                "views": 6073,
+                "href": "kak-klassno-provesti-klassnyj-chas-idei-i-gotovye-razrabotki",
+                "date": "2023-09-14T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4441/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4398,
+                "title": "Федеральные рабочие программы по предметам: что изменится в содержании школьных учебников ",
+                "views": 2721,
+                "href": "federal-nye-rabochie-programmy-po-predmetam-chto-izmenitsya-v-soderzhanii-shkol-nyh-uchebnikov",
+                "date": "2023-09-06T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4398/full_1",
+                "rubricId": "edu_change"
+            },
+            {
+                "id": 4377,
+                "title": "Что год грядущий нам готовит: изменения в 2023/24 учебном году",
+                "views": 1818,
+                "href": "chto-god-gryadushij-nam-gotovit-izmeneniya-v-2023-24-uchebnom-godu",
+                "date": "2023-08-23T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4377/full_1",
+                "rubricId": "edu_change"
+            },
+            {
+                "id": 4344,
+                "title": "Полезные онлайн-ресурсы для учителей географии",
+                "views": 3870,
+                "href": "poleznye-onlajn-resursy-dlya-uchitelej-geografii",
+                "date": "2023-08-18T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4344/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4341,
+                "title": "ТРИЗ-педагогика, или Можно ли научить ребёнка нестандартно мыслить",
+                "views": 1118,
+                "href": "triz-pedagogika-ili-mozhno-li-nauchit-rebenka-nestandartno-myslit",
+                "date": "2023-08-11T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4341/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4320,
+                "title": "Обучение программированию с нуля: 3 бесплатных приложения и их возможности",
+                "views": 1418,
+                "href": "obuchenie-programmirovaniyu-s-nulya-3-besplatnyh-prilozheniya-i-ih-vozmozhnosti",
+                "date": "2023-07-31T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4320/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4317,
+                "title": "Шесть шляп мышления: как применять метод на уроках",
+                "views": 4018,
+                "href": "shest-shlyap-myshleniya-kak-primenyat-metod-na-urokah",
+                "date": "2023-07-27T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4317/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4305,
+                "title": "Технология обучения CLIL: как применять на уроках иностранного языка",
+                "views": 1506,
+                "href": "tehnologiya-obucheniya-clil-kak-primenyat-na-urokah-inostrannogo-yazyka",
+                "date": "2023-07-21T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4305/full_1",
+                "rubricId": "innovation"
+            }
+        ],
+        "totalPages": 4,
+        "activePage": 3,
+        "rubrics": [
+            {
+                "id": "innovation",
+                "title": "Инновации"
+            },
+            {
+                "id": "psychology",
+                "title": "Психология"
+            },
+            {
+                "id": "edu_change",
+                "title": "Изменения в образовании"
+            },
+            {
+                "id": "motivation",
+                "title": "Мотивация"
+            },
+            {
+                "id": "analytics",
+                "title": "Аналитика"
+            },
+            {
+                "id": "useful_adv",
+                "title": "Полезные советы"
+            }
+        ],
+        "activeRubrics": []
+    },
+    "__N_SSP": true
+}
