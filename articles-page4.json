@@ -1,0 +1,86 @@
+{
+    "pageProps": {
+        "metaData": {
+            "title": "Учительская: полезные и нескучные статьи для педагога",
+            "keywords": "Учительская. Статьи для педагога.",
+            "description": "Советы от методистов-профессионалов: как готовить учеников к экзаменам, как эффективно использовать образовательный сервис Облако знаний. Обзор нормативных изменений в образовании."
+        },
+        "articles": [
+            {
+                "id": 4298,
+                "title": "Как электронные образовательные ресурсы помогают развивать мышление и повышать мотивацию школьников",
+                "views": 1187,
+                "href": "kak-elektronnye-obrazovatel-nye-resursy-pomogayut-razvivat-myshlenie-i-povyshat-motivaciyu-shkol-nikov",
+                "date": "2023-07-12T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4298/full_1",
+                "rubricId": "motivation"
+            },
+            {
+                "id": 4292,
+                "title": "Нестандартный подход в изучении сложных тем по биологии с сервисом «Облако знаний»",
+                "views": 827,
+                "href": "nestandartnyj-podhod-v-izuchenii-slozhnyh-tem-po-biologii-s-servisom-oblako-znanij",
+                "date": "2023-06-27T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4292/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4280,
+                "title": "Виртуальный практикум или живая лабораторная: что выбрать учителю",
+                "views": 957,
+                "href": "virtual-nyj-praktikum-ili-zhivaya-laboratornaya-chto-vybrat-uchitelyu",
+                "date": "2023-06-15T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4280/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4283,
+                "title": "Лето педагога: учебный год закончился, что дальше",
+                "views": 658,
+                "href": "leto-pedagoga-uchebnyj-god-zakonchilsya-chto-dal-she",
+                "date": "2023-06-15T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4283/full_1",
+                "rubricId": "psychology"
+            },
+            {
+                "id": 4278,
+                "title": "Как цифровые сервисы помогают школьникам осваивать методологию эксперимента",
+                "views": 1142,
+                "href": "kak-cifrovye-servisy-pomogayut-shkol-nikam-osvaivat-metodologiyu-eksperimenta",
+                "date": "2022-12-22T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4278/full_1",
+                "rubricId": "innovation"
+            }
+        ],
+        "totalPages": 4,
+        "activePage": 4,
+        "rubrics": [
+            {
+                "id": "innovation",
+                "title": "Инновации"
+            },
+            {
+                "id": "psychology",
+                "title": "Психология"
+            },
+            {
+                "id": "edu_change",
+                "title": "Изменения в образовании"
+            },
+            {
+                "id": "motivation",
+                "title": "Мотивация"
+            },
+            {
+                "id": "analytics",
+                "title": "Аналитика"
+            },
+            {
+                "id": "useful_adv",
+                "title": "Полезные советы"
+            }
+        ],
+        "activeRubrics": []
+    },
+    "__N_SSP": true
+}

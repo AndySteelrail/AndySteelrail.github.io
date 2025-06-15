@@ -1,0 +1,29 @@
+{
+  "chapters": [
+    {
+      "name": "Всё",
+      "url": "all",
+      "img": "all.3d85c0dd.svg"
+    },
+    {
+      "name": "Новости",
+      "url": "news-list",
+      "img": "news.73f8f602.svg"
+    },
+    {
+      "name": "Методические материалы",
+      "url": "guidelines",
+      "img": "guidelines.a487e4cc.svg"
+    },
+    {
+      "name": "Статьи",
+      "url": "articles",
+      "img": "artices.9ce0391b.svg"
+    },
+    {
+      "name": "Опорные конспекты",
+      "url": "conspects",
+      "img": "conspects.85b921e2.svg"
+    }
+  ]
+}
